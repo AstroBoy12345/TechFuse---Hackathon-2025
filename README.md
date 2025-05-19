@@ -35,5 +35,5 @@ A full-featured Smart Parking application built with **Spring Boot (Java)** on t
 
 ---
 ## 👤 Author
-  All the skeleton code on Front End and Back End has been provided to us to work on by Team Viewer
+  All the skeleton code on Front End and Back End has been provided to us by Team Viewer
 
