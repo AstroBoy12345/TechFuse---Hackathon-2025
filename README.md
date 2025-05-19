@@ -18,7 +18,7 @@ A full-featured Smart Parking application built with **Spring Boot (Java)** on t
 **Frontend:**
 - TypeScript
 - React
-- TailwindCSS
+- CSS
 
 **Backend:**
 - Java
