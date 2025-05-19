@@ -34,6 +34,6 @@ A full-featured Smart Parking application built with **Spring Boot (Java)** on t
 - Git & GitHub
 
 ---
-👤 Author
+## 👤 Author
   All the project has been provided to us to work on by Team Viewer
 
